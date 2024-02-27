@@ -1,14 +1,15 @@
 <template>
   <view class="index">
     <view class="index">
-        11111111111111
+        22222222
   </view>
   </view>
 </template>
 
 <script>
-// 按需引入, 更小的应用体积
-import './index.scss'
+definePageConfig({
+    navigationBarTitleText: '我的',
+  })
 export default {
   components: {
 
