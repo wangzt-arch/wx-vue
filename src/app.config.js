@@ -32,7 +32,19 @@ export default {
       },
       {
         pagePath: "pages/member/index",
-        text: "我的账户",
+        text: "我的",
+        // iconPath: "resource/image/user.png",
+        // selectedIconPath: "resource/image/user-select.png",
+      },
+      {
+        pagePath: "pages/home/index",
+        text: "首页",
+        // iconPath: "resource/image/home.png",
+        // selectedIconPath: "resource/image/home-select.png",
+      },
+      {
+        pagePath: "pages/member/index",
+        text: "我的",
         // iconPath: "resource/image/user.png",
         // selectedIconPath: "resource/image/user-select.png",
       },
